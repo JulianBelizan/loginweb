@@ -1,9 +1,9 @@
 * {
     margin: 0;
     background-image:url(https://wallpapercave.com/wp/wp2465958.jpg);
-    background-position: left; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .back {
